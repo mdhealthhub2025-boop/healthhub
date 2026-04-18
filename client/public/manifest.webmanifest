@@ -1,0 +1,25 @@
+{
+  "name": "Health Hub",
+  "short_name": "Health Hub",
+  "description": "Pediatric EMR for managing patient records, visits, vaccines, appointments, and files.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F7F7FB",
+  "theme_color": "#6D5BD0",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
